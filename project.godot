@@ -18,6 +18,16 @@ config/icon="res://icon.png"
 
 Utils="*res://src/utils/utils.gd"
 TextureHandler="*res://src/utils/texture_handler.gd"
+WorldGen="*res://src/utils/world_gen.gd"
+
+[display]
+
+window/size/width=102
+window/size/height=60
+window/size/test_width=1024
+window/size/test_height=600
+window/stretch/mode="2d"
+window/stretch/aspect="keep"
 
 [gui]
 
