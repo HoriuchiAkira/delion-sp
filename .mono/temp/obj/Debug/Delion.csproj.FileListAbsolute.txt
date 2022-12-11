@@ -1,0 +1,9 @@
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/bin/Debug/Delion.dll
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/bin/Debug/Delion.pdb
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/obj/Debug/Delion.csproj.AssemblyReference.cache
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/obj/Debug/Delion.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/obj/Debug/Delion.AssemblyInfoInputs.cache
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/obj/Debug/Delion.AssemblyInfo.cs
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/obj/Debug/Delion.csproj.CoreCompileInputs.cache
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/obj/Debug/Delion.dll
+/home/jefflo/HoriuchiAkira/delion-sp/.mono/temp/obj/Debug/Delion.pdb

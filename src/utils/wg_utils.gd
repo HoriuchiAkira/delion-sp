@@ -12,10 +12,8 @@ class Block:
 	var v_flip: bool = false
 	var h_flip: bool = false
 	
-
 func _ready():
 	pass
-
 
 enum BIOME_TYPE {
 	NORMAL,
