@@ -18,7 +18,6 @@ config/icon="res://icon.png"
 
 Utils="*res://src/utils/utils.gd"
 TextureHandler="*res://src/utils/texture_handler.gd"
-WGUtils="*res://src/utils/wg_utils.gd"
 WorldGen="*res://src/utils/world_gen.cs"
 
 [display]
